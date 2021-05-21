@@ -61,7 +61,7 @@ ke website adalah file2 yang ada di folder assets/js/** [sesuai nama, misal wakt
 * The scripts are license under: [MIT](license.md).
 
 ## Find Me On
-* GITHUB [Muhammad Sidik 354](https://github.com/javanese354)
+* GITHUB [javanese354](https://github.com/javanese354)
 * FACEBOOK [Muhammad Sidik](https://facebook.com/sidik.javanese)
 * INSTAGRAM [Javanese354](https://instagram.com/javanese354)
 * TWITTER [Javanese354](https://twitter.com/@javanese354)
